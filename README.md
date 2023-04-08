@@ -17,4 +17,5 @@ EXECUÇÃO DO JOGO
 5. A velocidade de jogo aumenta paulatinamente.
 
 CRÉDITOS
+A hierarquia de bibliotecas Linux e Windows para que o correto funcionamento do jogo fosse garantido em ambos sistemas operacionais foi pensado por Matthew Vlietstra na versão 0.5 de seu projeto em 2010.
 
