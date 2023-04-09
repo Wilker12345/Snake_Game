@@ -23,6 +23,7 @@ EXECUÇÃO DO JOGO
 5. Uma barra de especial chamada "Barra Imortalidade" é carregada conforme se come as frutas. Quando ela fica cheia uma mensagem de "Pronto" aparece. Para usar essa habilidade especial pressione a tecla de espaco. O poder deixa a cobra imortal por um tempo.
 6. A velocidade de jogo aumenta gradualmente.
 7. A tela do jogo (terminal) deve ter tamanho maior que 80x20, deixar a janela do terminal cobrindo toda a tela do computador também funciona.
+
 CRÉDITOS
 
 A hierarquia de bibliotecas Linux e Windows para que o correto funcionamento do jogo fosse garantido em ambos sistemas operacionais foi pensado por Matthew Vlietstra na versão 0.5 de seu projeto em 2010.
